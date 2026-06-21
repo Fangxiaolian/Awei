@@ -1,0 +1,6 @@
+{
+  "name": "无敌阿威会飞天",
+  "description": "一款画面精美、手感流畅的Flappy Bird风格休闲游戏，支持触屏操作、皮肤解锁和本地Room数据库积分排行榜！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
